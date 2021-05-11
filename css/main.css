@@ -1,0 +1,56 @@
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width: 75%;
+    border-radius: 6px;
+  }
+  input{
+    font-size:18px;
+    border-radius: 3px;
+  }
+  option{
+    font-size:20px;
+    padding:10px;
+    
+  }
+  .navigation{
+    text-align: center; 
+    border: 2px solid black;
+    width: 75%;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:6px;
+    font-size:20px;
+    background-color:lightsteelblue;
+  }
+  
+  .quote_line{
+    font-family: calibri;
+    font-size: 22;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+    border:2px solid black;
+    width:100%;
+    background: lightgrey;
+    border-radius: 4px;
+    
+  }
+  table{
+    border: 1px solid black;
+  }
+  .detail_line{
+    font-size: 20;
+    border: 2px solid black;
+    background-color:lightgoldenrodyellow
+  }
+  .category_box{
+    font-family: verdana;
+    border: 2px dashed black;
+  }
+  .author_box{
+    font-family: verdana;
+    border: 2px dashed black;
+    width: 50%
+  }
+  

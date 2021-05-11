@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api",
-    "\\api\\quotes",
-    "\\config",
-    "\\models"
+    "\\api\\categories",
+    "\\api\\quotes"
   ],
-  "SelectedNode": "\\config\\Database.php",
+  "SelectedNode": "\\index.php",
   "PreviewInSolutionExplorer": false
 }
