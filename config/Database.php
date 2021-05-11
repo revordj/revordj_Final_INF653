@@ -5,7 +5,7 @@
 
 		private $dsn = 'mysql:host=y5svr1t2r5xudqeq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=ebgthxuzb8tnkfwr';
 		private $username = 'ydvbdiox0kk7kzdm';
-		private $password = 'x72oldqt3rvcj2yb'
+		private $password = 'x72oldqt3rvcj2yb';
 		private $db;
 
 		public function connect() {
